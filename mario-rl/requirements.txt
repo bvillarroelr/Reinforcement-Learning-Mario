@@ -1,0 +1,6 @@
+setuptools==65.5.0
+wheel==0.38.4
+gym==0.21.0
+gym-super-mario-bros==7.4.0
+stable-baselines3[extra]==1.8.0
+numpy<1.27.0
